@@ -1,0 +1,4 @@
+M:\softuni\7\Loops\2.NumbersNotDivisibleBy3And7\bin\Debug\2.NumbersNotDivisibleBy3And7.exe
+M:\softuni\7\Loops\2.NumbersNotDivisibleBy3And7\bin\Debug\2.NumbersNotDivisibleBy3And7.pdb
+M:\softuni\7\Loops\2.NumbersNotDivisibleBy3And7\obj\Debug\2.NumbersNotDivisibleBy3And7.exe
+M:\softuni\7\Loops\2.NumbersNotDivisibleBy3And7\obj\Debug\2.NumbersNotDivisibleBy3And7.pdb

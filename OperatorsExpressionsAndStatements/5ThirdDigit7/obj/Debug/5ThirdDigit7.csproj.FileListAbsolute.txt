@@ -1,0 +1,4 @@
+M:\softuni\5\hw\OperatorsExpressionsAndStatements\5ThirdDigit7\bin\Debug\5ThirdDigit7.exe
+M:\softuni\5\hw\OperatorsExpressionsAndStatements\5ThirdDigit7\bin\Debug\5ThirdDigit7.pdb
+M:\softuni\5\hw\OperatorsExpressionsAndStatements\5ThirdDigit7\obj\Debug\5ThirdDigit7.exe
+M:\softuni\5\hw\OperatorsExpressionsAndStatements\5ThirdDigit7\obj\Debug\5ThirdDigit7.pdb

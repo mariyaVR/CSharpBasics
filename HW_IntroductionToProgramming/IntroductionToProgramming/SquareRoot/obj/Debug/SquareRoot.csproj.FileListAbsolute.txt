@@ -1,0 +1,4 @@
+M:\softuni\2\Homework\IntroductionToProgramming\SquareRoot\bin\Debug\SquareRoot.exe
+M:\softuni\2\Homework\IntroductionToProgramming\SquareRoot\bin\Debug\SquareRoot.pdb
+M:\softuni\2\Homework\IntroductionToProgramming\SquareRoot\obj\Debug\SquareRoot.exe
+M:\softuni\2\Homework\IntroductionToProgramming\SquareRoot\obj\Debug\SquareRoot.pdb

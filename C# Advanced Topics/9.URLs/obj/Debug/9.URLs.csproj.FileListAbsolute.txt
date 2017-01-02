@@ -1,0 +1,10 @@
+M:\softuni\8\ex\CSharpAdvancedHW\9.URLs\bin\Debug\9.URLs.exe.config
+M:\softuni\8\ex\CSharpAdvancedHW\9.URLs\bin\Debug\9.URLs.exe
+M:\softuni\8\ex\CSharpAdvancedHW\9.URLs\bin\Debug\9.URLs.pdb
+M:\softuni\8\ex\CSharpAdvancedHW\9.URLs\obj\Debug\9.URLs.exe
+M:\softuni\8\ex\CSharpAdvancedHW\9.URLs\obj\Debug\9.URLs.pdb
+M:\softuni\8\hw\CSharpAdvancedHW\9.URLs\obj\Debug\9.URLs.exe
+M:\softuni\8\hw\CSharpAdvancedHW\9.URLs\obj\Debug\9.URLs.pdb
+M:\softuni\8\hw\CSharpAdvancedHW\9.URLs\bin\Debug\9.URLs.exe
+M:\softuni\8\hw\CSharpAdvancedHW\9.URLs\bin\Debug\9.URLs.pdb
+M:\softuni\8\hw\CSharpAdvancedHW\9.URLs\obj\Debug\9.URLs.csprojResolveAssemblyReference.cache

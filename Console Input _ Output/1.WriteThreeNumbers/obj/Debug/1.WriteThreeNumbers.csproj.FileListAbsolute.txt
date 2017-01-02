@@ -1,0 +1,5 @@
+M:\softuni\4\homework.console.input.output\ConsoleInputOutput\1.WriteThreeNumbers\obj\Debug\1.WriteThreeNumbers.csprojResolveAssemblyReference.cache
+M:\softuni\4\homework.console.input.output\ConsoleInputOutput\1.WriteThreeNumbers\bin\Debug\1.WriteThreeNumbers.exe
+M:\softuni\4\homework.console.input.output\ConsoleInputOutput\1.WriteThreeNumbers\bin\Debug\1.WriteThreeNumbers.pdb
+M:\softuni\4\homework.console.input.output\ConsoleInputOutput\1.WriteThreeNumbers\obj\Debug\1.WriteThreeNumbers.exe
+M:\softuni\4\homework.console.input.output\ConsoleInputOutput\1.WriteThreeNumbers\obj\Debug\1.WriteThreeNumbers.pdb

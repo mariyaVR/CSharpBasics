@@ -1,0 +1,7 @@
+M:\softuni\8\ex\CSharpAdvancedHW\3.LongestAreaInArea\bin\Debug\3.LongestAreaInArea.exe
+M:\softuni\8\ex\CSharpAdvancedHW\3.LongestAreaInArea\bin\Debug\3.LongestAreaInArea.pdb
+M:\softuni\8\ex\CSharpAdvancedHW\3.LongestAreaInArea\obj\Debug\3.LongestAreaInArea.csprojResolveAssemblyReference.cache
+M:\softuni\8\ex\CSharpAdvancedHW\3.LongestAreaInArea\obj\Debug\3.LongestAreaInArea.exe
+M:\softuni\8\ex\CSharpAdvancedHW\3.LongestAreaInArea\obj\Debug\3.LongestAreaInArea.pdb
+M:\softuni\8\hw\CSharpAdvancedHW\3.LongestAreaInArea\obj\Debug\3.LongestAreaInArea.exe
+M:\softuni\8\hw\CSharpAdvancedHW\3.LongestAreaInArea\obj\Debug\3.LongestAreaInArea.pdb

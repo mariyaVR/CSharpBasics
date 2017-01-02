@@ -1,0 +1,4 @@
+M:\softuni\5\hw\OperatorsExpressionsAndStatements\6FourDigitNumber\bin\Debug\6FourDigitNumber.exe
+M:\softuni\5\hw\OperatorsExpressionsAndStatements\6FourDigitNumber\bin\Debug\6FourDigitNumber.pdb
+M:\softuni\5\hw\OperatorsExpressionsAndStatements\6FourDigitNumber\obj\Debug\6FourDigitNumber.exe
+M:\softuni\5\hw\OperatorsExpressionsAndStatements\6FourDigitNumber\obj\Debug\6FourDigitNumber.pdb

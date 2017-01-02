@@ -1,0 +1,4 @@
+M:\softuni\5\hw\OperatorsExpressionsAndStatements\3DivideBy7And5\bin\Debug\3DivideBy7And5.exe
+M:\softuni\5\hw\OperatorsExpressionsAndStatements\3DivideBy7And5\bin\Debug\3DivideBy7And5.pdb
+M:\softuni\5\hw\OperatorsExpressionsAndStatements\3DivideBy7And5\obj\Debug\3DivideBy7And5.exe
+M:\softuni\5\hw\OperatorsExpressionsAndStatements\3DivideBy7And5\obj\Debug\3DivideBy7And5.pdb

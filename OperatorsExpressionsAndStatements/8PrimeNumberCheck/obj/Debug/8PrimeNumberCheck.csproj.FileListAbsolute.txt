@@ -1,0 +1,4 @@
+M:\softuni\5\hw\OperatorsExpressionsAndStatements\8PrimeNumberCheck\bin\Debug\8PrimeNumberCheck.exe
+M:\softuni\5\hw\OperatorsExpressionsAndStatements\8PrimeNumberCheck\bin\Debug\8PrimeNumberCheck.pdb
+M:\softuni\5\hw\OperatorsExpressionsAndStatements\8PrimeNumberCheck\obj\Debug\8PrimeNumberCheck.exe
+M:\softuni\5\hw\OperatorsExpressionsAndStatements\8PrimeNumberCheck\obj\Debug\8PrimeNumberCheck.pdb

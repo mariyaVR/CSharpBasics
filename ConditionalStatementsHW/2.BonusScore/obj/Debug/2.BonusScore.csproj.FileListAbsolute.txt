@@ -1,0 +1,4 @@
+M:\softuni\6\hw\ConditionalStatementsHW\2.BonusScore\bin\Debug\2.BonusScore.exe
+M:\softuni\6\hw\ConditionalStatementsHW\2.BonusScore\bin\Debug\2.BonusScore.pdb
+M:\softuni\6\hw\ConditionalStatementsHW\2.BonusScore\obj\Debug\2.BonusScore.exe
+M:\softuni\6\hw\ConditionalStatementsHW\2.BonusScore\obj\Debug\2.BonusScore.pdb

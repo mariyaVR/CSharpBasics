@@ -1,0 +1,5 @@
+M:\softuni\5\hw\OperatorsExpressionsAndStatements\1OddOrEvenIntegers\bin\Debug\1OddOrEvenIntegers.exe
+M:\softuni\5\hw\OperatorsExpressionsAndStatements\1OddOrEvenIntegers\bin\Debug\1OddOrEvenIntegers.pdb
+M:\softuni\5\hw\OperatorsExpressionsAndStatements\1OddOrEvenIntegers\obj\Debug\1OddOrEvenIntegers.csprojResolveAssemblyReference.cache
+M:\softuni\5\hw\OperatorsExpressionsAndStatements\1OddOrEvenIntegers\obj\Debug\1OddOrEvenIntegers.exe
+M:\softuni\5\hw\OperatorsExpressionsAndStatements\1OddOrEvenIntegers\obj\Debug\1OddOrEvenIntegers.pdb

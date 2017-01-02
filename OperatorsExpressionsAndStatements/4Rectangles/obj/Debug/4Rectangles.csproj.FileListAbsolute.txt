@@ -1,0 +1,4 @@
+M:\softuni\5\hw\OperatorsExpressionsAndStatements\4Rectangles\bin\Debug\4Rectangles.exe
+M:\softuni\5\hw\OperatorsExpressionsAndStatements\4Rectangles\bin\Debug\4Rectangles.pdb
+M:\softuni\5\hw\OperatorsExpressionsAndStatements\4Rectangles\obj\Debug\4Rectangles.exe
+M:\softuni\5\hw\OperatorsExpressionsAndStatements\4Rectangles\obj\Debug\4Rectangles.pdb

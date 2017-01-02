@@ -1,0 +1,5 @@
+C# and .NET Framework
+C# is an elegant and type-safe object-oriented language that enables developers to build a variety of secure and robust applications that run on the .NET Framework.
+C# programs run on the .NET Framework, an integral component of Windows that includes a virtual execution system called the common language runtime (CLR) and a unified set of class libraries.
+
+Sources: https://msdn.microsoft.com

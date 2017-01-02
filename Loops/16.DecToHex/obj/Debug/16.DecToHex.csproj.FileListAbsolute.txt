@@ -1,0 +1,4 @@
+M:\softuni\7\Loops\16.DecToHex\bin\Debug\16.DecToHex.exe
+M:\softuni\7\Loops\16.DecToHex\bin\Debug\16.DecToHex.pdb
+M:\softuni\7\Loops\16.DecToHex\obj\Debug\16.DecToHex.exe
+M:\softuni\7\Loops\16.DecToHex\obj\Debug\16.DecToHex.pdb

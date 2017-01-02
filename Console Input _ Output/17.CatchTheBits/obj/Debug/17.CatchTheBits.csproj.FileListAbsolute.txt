@@ -1,0 +1,4 @@
+M:\softuni\4\homework.console.input.output\ConsoleInputOutput\17.CatchTheBits\bin\Debug\17.CatchTheBits.exe
+M:\softuni\4\homework.console.input.output\ConsoleInputOutput\17.CatchTheBits\bin\Debug\17.CatchTheBits.pdb
+M:\softuni\4\homework.console.input.output\ConsoleInputOutput\17.CatchTheBits\obj\Debug\17.CatchTheBits.exe
+M:\softuni\4\homework.console.input.output\ConsoleInputOutput\17.CatchTheBits\obj\Debug\17.CatchTheBits.pdb

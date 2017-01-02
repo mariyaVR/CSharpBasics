@@ -1,0 +1,6 @@
+M:\softuni\8\ex\CSharpAdvancedHW\6.RemoveNames\bin\Debug\6.RemoveNames.exe
+M:\softuni\8\ex\CSharpAdvancedHW\6.RemoveNames\bin\Debug\6.RemoveNames.pdb
+M:\softuni\8\ex\CSharpAdvancedHW\6.RemoveNames\obj\Debug\6.RemoveNames.exe
+M:\softuni\8\ex\CSharpAdvancedHW\6.RemoveNames\obj\Debug\6.RemoveNames.pdb
+M:\softuni\8\hw\CSharpAdvancedHW\6.RemoveNames\obj\Debug\6.RemoveNames.exe
+M:\softuni\8\hw\CSharpAdvancedHW\6.RemoveNames\obj\Debug\6.RemoveNames.pdb

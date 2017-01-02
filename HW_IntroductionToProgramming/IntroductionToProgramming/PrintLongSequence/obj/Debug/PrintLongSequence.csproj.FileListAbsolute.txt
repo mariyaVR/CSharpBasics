@@ -1,0 +1,5 @@
+M:\softuni\2\Homework\IntroductionToProgramming\PrintLongSequence\bin\Debug\PrintLongSequence.exe
+M:\softuni\2\Homework\IntroductionToProgramming\PrintLongSequence\bin\Debug\PrintLongSequence.pdb
+M:\softuni\2\Homework\IntroductionToProgramming\PrintLongSequence\obj\Debug\PrintLongSequence.csprojResolveAssemblyReference.cache
+M:\softuni\2\Homework\IntroductionToProgramming\PrintLongSequence\obj\Debug\PrintLongSequence.exe
+M:\softuni\2\Homework\IntroductionToProgramming\PrintLongSequence\obj\Debug\PrintLongSequence.pdb

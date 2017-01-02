@@ -1,0 +1,4 @@
+M:\softuni\5\hw\OperatorsExpressionsAndStatements\13CheckBitAtGivenPosition\bin\Debug\13CheckBitAtGivenPosition.exe
+M:\softuni\5\hw\OperatorsExpressionsAndStatements\13CheckBitAtGivenPosition\bin\Debug\13CheckBitAtGivenPosition.pdb
+M:\softuni\5\hw\OperatorsExpressionsAndStatements\13CheckBitAtGivenPosition\obj\Debug\13CheckBitAtGivenPosition.exe
+M:\softuni\5\hw\OperatorsExpressionsAndStatements\13CheckBitAtGivenPosition\obj\Debug\13CheckBitAtGivenPosition.pdb

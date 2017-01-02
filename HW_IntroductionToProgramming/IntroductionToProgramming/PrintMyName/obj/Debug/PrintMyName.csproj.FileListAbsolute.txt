@@ -1,0 +1,4 @@
+M:\softuni\2\Homework\IntroductionToProgramming\PrintMyName\bin\Debug\PrintMyName.exe
+M:\softuni\2\Homework\IntroductionToProgramming\PrintMyName\bin\Debug\PrintMyName.pdb
+M:\softuni\2\Homework\IntroductionToProgramming\PrintMyName\obj\Debug\PrintMyName.exe
+M:\softuni\2\Homework\IntroductionToProgramming\PrintMyName\obj\Debug\PrintMyName.pdb

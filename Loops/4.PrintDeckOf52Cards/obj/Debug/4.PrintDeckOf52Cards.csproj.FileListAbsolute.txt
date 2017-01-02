@@ -1,0 +1,5 @@
+M:\softuni\7\Loops\4.PrintDeckOf52Cards\bin\Debug\4.PrintDeckOf52Cards.exe
+M:\softuni\7\Loops\4.PrintDeckOf52Cards\bin\Debug\4.PrintDeckOf52Cards.pdb
+M:\softuni\7\Loops\4.PrintDeckOf52Cards\obj\Debug\4.PrintDeckOf52Cards.csprojResolveAssemblyReference.cache
+M:\softuni\7\Loops\4.PrintDeckOf52Cards\obj\Debug\4.PrintDeckOf52Cards.exe
+M:\softuni\7\Loops\4.PrintDeckOf52Cards\obj\Debug\4.PrintDeckOf52Cards.pdb

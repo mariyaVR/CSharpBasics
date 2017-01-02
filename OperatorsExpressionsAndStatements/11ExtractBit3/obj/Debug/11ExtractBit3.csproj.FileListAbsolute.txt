@@ -1,0 +1,4 @@
+M:\softuni\5\hw\OperatorsExpressionsAndStatements\11ExtractBit3\bin\Debug\11ExtractBit3.exe
+M:\softuni\5\hw\OperatorsExpressionsAndStatements\11ExtractBit3\bin\Debug\11ExtractBit3.pdb
+M:\softuni\5\hw\OperatorsExpressionsAndStatements\11ExtractBit3\obj\Debug\11ExtractBit3.exe
+M:\softuni\5\hw\OperatorsExpressionsAndStatements\11ExtractBit3\obj\Debug\11ExtractBit3.pdb

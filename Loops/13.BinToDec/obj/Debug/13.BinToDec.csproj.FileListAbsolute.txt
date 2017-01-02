@@ -1,0 +1,5 @@
+M:\softuni\7\Loops\13.BinToDec\bin\Debug\13.BinToDec.exe
+M:\softuni\7\Loops\13.BinToDec\bin\Debug\13.BinToDec.pdb
+M:\softuni\7\Loops\13.BinToDec\obj\Debug\13.BinToDec.csprojResolveAssemblyReference.cache
+M:\softuni\7\Loops\13.BinToDec\obj\Debug\13.BinToDec.exe
+M:\softuni\7\Loops\13.BinToDec\obj\Debug\13.BinToDec.pdb

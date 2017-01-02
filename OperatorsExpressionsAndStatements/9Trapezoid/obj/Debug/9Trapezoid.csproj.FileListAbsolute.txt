@@ -1,0 +1,4 @@
+M:\softuni\5\hw\OperatorsExpressionsAndStatements\9Trapezoid\bin\Debug\9Trapezoid.exe
+M:\softuni\5\hw\OperatorsExpressionsAndStatements\9Trapezoid\bin\Debug\9Trapezoid.pdb
+M:\softuni\5\hw\OperatorsExpressionsAndStatements\9Trapezoid\obj\Debug\9Trapezoid.exe
+M:\softuni\5\hw\OperatorsExpressionsAndStatements\9Trapezoid\obj\Debug\9Trapezoid.pdb

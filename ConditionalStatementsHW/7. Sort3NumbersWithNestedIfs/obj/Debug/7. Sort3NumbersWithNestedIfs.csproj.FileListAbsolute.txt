@@ -1,0 +1,4 @@
+M:\softuni\6\hw\ConditionalStatementsHW\7. Sort3NumbersWithNestedIfs\bin\Debug\_7.Sort3NumbersWithNestedIfs.exe
+M:\softuni\6\hw\ConditionalStatementsHW\7. Sort3NumbersWithNestedIfs\bin\Debug\_7.Sort3NumbersWithNestedIfs.pdb
+M:\softuni\6\hw\ConditionalStatementsHW\7. Sort3NumbersWithNestedIfs\obj\Debug\_7.Sort3NumbersWithNestedIfs.exe
+M:\softuni\6\hw\ConditionalStatementsHW\7. Sort3NumbersWithNestedIfs\obj\Debug\_7.Sort3NumbersWithNestedIfs.pdb

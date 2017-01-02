@@ -1,0 +1,5 @@
+M:\softuni\6\hw\ConditionalStatementsHW\1.ExchangeIfGreater\bin\Debug\1.ExchangeIfGreater.exe
+M:\softuni\6\hw\ConditionalStatementsHW\1.ExchangeIfGreater\bin\Debug\1.ExchangeIfGreater.pdb
+M:\softuni\6\hw\ConditionalStatementsHW\1.ExchangeIfGreater\obj\Debug\1.ExchangeIfGreater.csprojResolveAssemblyReference.cache
+M:\softuni\6\hw\ConditionalStatementsHW\1.ExchangeIfGreater\obj\Debug\1.ExchangeIfGreater.exe
+M:\softuni\6\hw\ConditionalStatementsHW\1.ExchangeIfGreater\obj\Debug\1.ExchangeIfGreater.pdb

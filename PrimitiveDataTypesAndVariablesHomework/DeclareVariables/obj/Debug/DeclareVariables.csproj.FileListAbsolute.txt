@@ -1,0 +1,4 @@
+M:\softuni\3\hw\PrimitiveDataTypesAndVariablesHomework\DeclareVariables\bin\Debug\DeclareVariables.exe
+M:\softuni\3\hw\PrimitiveDataTypesAndVariablesHomework\DeclareVariables\bin\Debug\DeclareVariables.pdb
+M:\softuni\3\hw\PrimitiveDataTypesAndVariablesHomework\DeclareVariables\obj\Debug\DeclareVariables.exe
+M:\softuni\3\hw\PrimitiveDataTypesAndVariablesHomework\DeclareVariables\obj\Debug\DeclareVariables.pdb

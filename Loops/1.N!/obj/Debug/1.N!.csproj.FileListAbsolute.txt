@@ -1,0 +1,5 @@
+M:\softuni\7\Loops\1.N!\bin\Debug\1.N!.exe
+M:\softuni\7\Loops\1.N!\bin\Debug\1.N!.pdb
+M:\softuni\7\Loops\1.N!\obj\Debug\1.N!.csprojResolveAssemblyReference.cache
+M:\softuni\7\Loops\1.N!\obj\Debug\1.N!.exe
+M:\softuni\7\Loops\1.N!\obj\Debug\1.N!.pdb

@@ -1,0 +1,4 @@
+M:\softuni\6\hw\ConditionalStatementsHW\5.BiggestOfThree\bin\Debug\5.BiggestOfThree.exe
+M:\softuni\6\hw\ConditionalStatementsHW\5.BiggestOfThree\bin\Debug\5.BiggestOfThree.pdb
+M:\softuni\6\hw\ConditionalStatementsHW\5.BiggestOfThree\obj\Debug\5.BiggestOfThree.exe
+M:\softuni\6\hw\ConditionalStatementsHW\5.BiggestOfThree\obj\Debug\5.BiggestOfThree.pdb

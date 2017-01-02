@@ -1,0 +1,6 @@
+M:\softuni\7\Loops\6.Factorials\bin\Debug\6.Factorials.exe.config
+M:\softuni\7\Loops\6.Factorials\bin\Debug\6.Factorials.exe
+M:\softuni\7\Loops\6.Factorials\bin\Debug\6.Factorials.pdb
+M:\softuni\7\Loops\6.Factorials\obj\Debug\6.Factorials.csprojResolveAssemblyReference.cache
+M:\softuni\7\Loops\6.Factorials\obj\Debug\6.Factorials.exe
+M:\softuni\7\Loops\6.Factorials\obj\Debug\6.Factorials.pdb

@@ -1,0 +1,6 @@
+M:\softuni\8\ex\CSharpAdvancedHW\2.Sorting\bin\Debug\2.Sorting.exe
+M:\softuni\8\ex\CSharpAdvancedHW\2.Sorting\bin\Debug\2.Sorting.pdb
+M:\softuni\8\ex\CSharpAdvancedHW\2.Sorting\obj\Debug\2.Sorting.exe
+M:\softuni\8\ex\CSharpAdvancedHW\2.Sorting\obj\Debug\2.Sorting.pdb
+M:\softuni\8\hw\CSharpAdvancedHW\2.Sorting\obj\Debug\2.Sorting.exe
+M:\softuni\8\hw\CSharpAdvancedHW\2.Sorting\obj\Debug\2.Sorting.pdb

@@ -1,0 +1,4 @@
+M:\softuni\7\Loops\14.DecToBin\bin\Debug\14.DecToBin.exe
+M:\softuni\7\Loops\14.DecToBin\bin\Debug\14.DecToBin.pdb
+M:\softuni\7\Loops\14.DecToBin\obj\Debug\14.DecToBin.exe
+M:\softuni\7\Loops\14.DecToBin\obj\Debug\14.DecToBin.pdb

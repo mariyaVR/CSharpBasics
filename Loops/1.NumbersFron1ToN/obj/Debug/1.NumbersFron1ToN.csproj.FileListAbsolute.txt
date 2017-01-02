@@ -1,0 +1,4 @@
+M:\softuni\7\Loops\1.NumbersFron1ToN\bin\Debug\1.NumbersFron1ToN.exe
+M:\softuni\7\Loops\1.NumbersFron1ToN\bin\Debug\1.NumbersFron1ToN.pdb
+M:\softuni\7\Loops\1.NumbersFron1ToN\obj\Debug\1.NumbersFron1ToN.exe
+M:\softuni\7\Loops\1.NumbersFron1ToN\obj\Debug\1.NumbersFron1ToN.pdb

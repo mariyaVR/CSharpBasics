@@ -1,0 +1,4 @@
+M:\softuni\2\Homework\IntroductionToProgramming\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.exe
+M:\softuni\2\Homework\IntroductionToProgramming\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.pdb
+M:\softuni\2\Homework\IntroductionToProgramming\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.exe
+M:\softuni\2\Homework\IntroductionToProgramming\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.pdb

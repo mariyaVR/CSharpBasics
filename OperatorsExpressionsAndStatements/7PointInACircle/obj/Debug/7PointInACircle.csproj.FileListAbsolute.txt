@@ -1,0 +1,4 @@
+M:\softuni\5\hw\OperatorsExpressionsAndStatements\7PointInACircle\bin\Debug\7PointInACircle.exe
+M:\softuni\5\hw\OperatorsExpressionsAndStatements\7PointInACircle\bin\Debug\7PointInACircle.pdb
+M:\softuni\5\hw\OperatorsExpressionsAndStatements\7PointInACircle\obj\Debug\7PointInACircle.exe
+M:\softuni\5\hw\OperatorsExpressionsAndStatements\7PointInACircle\obj\Debug\7PointInACircle.pdb

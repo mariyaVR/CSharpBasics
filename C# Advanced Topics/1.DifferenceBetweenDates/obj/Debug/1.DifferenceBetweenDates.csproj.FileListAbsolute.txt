@@ -1,0 +1,10 @@
+M:\softuni\8\ex\CSharpAdvancedHW\1.DifferenceBetweenDates\bin\Debug\1.DifferenceBetweenDates.exe
+M:\softuni\8\ex\CSharpAdvancedHW\1.DifferenceBetweenDates\bin\Debug\1.DifferenceBetweenDates.pdb
+M:\softuni\8\ex\CSharpAdvancedHW\1.DifferenceBetweenDates\obj\Debug\1.DifferenceBetweenDates.csprojResolveAssemblyReference.cache
+M:\softuni\8\ex\CSharpAdvancedHW\1.DifferenceBetweenDates\obj\Debug\1.DifferenceBetweenDates.exe
+M:\softuni\8\ex\CSharpAdvancedHW\1.DifferenceBetweenDates\obj\Debug\1.DifferenceBetweenDates.pdb
+M:\softuni\8\hw\CSharpAdvancedHW\1.DifferenceBetweenDates\obj\Debug\1.DifferenceBetweenDates.exe
+M:\softuni\8\hw\CSharpAdvancedHW\1.DifferenceBetweenDates\obj\Debug\1.DifferenceBetweenDates.pdb
+M:\softuni\8\hw\CSharpAdvancedHW\1.DifferenceBetweenDates\bin\Debug\1.DifferenceBetweenDates.exe
+M:\softuni\8\hw\CSharpAdvancedHW\1.DifferenceBetweenDates\bin\Debug\1.DifferenceBetweenDates.pdb
+M:\softuni\8\hw\CSharpAdvancedHW\1.DifferenceBetweenDates\obj\Debug\1.DifferenceBetweenDates.csprojResolveAssemblyReference.cache

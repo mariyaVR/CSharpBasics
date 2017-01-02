@@ -1,0 +1,4 @@
+M:\softuni\5\hw\OperatorsExpressionsAndStatements\14ModifyBitAtGivenPosition\bin\Debug\14ModifyBitAtGivenPosition.exe
+M:\softuni\5\hw\OperatorsExpressionsAndStatements\14ModifyBitAtGivenPosition\bin\Debug\14ModifyBitAtGivenPosition.pdb
+M:\softuni\5\hw\OperatorsExpressionsAndStatements\14ModifyBitAtGivenPosition\obj\Debug\14ModifyBitAtGivenPosition.exe
+M:\softuni\5\hw\OperatorsExpressionsAndStatements\14ModifyBitAtGivenPosition\obj\Debug\14ModifyBitAtGivenPosition.pdb

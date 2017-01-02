@@ -1,0 +1,6 @@
+M:\softuni\8\ex\CSharpAdvancedHW\8.LongestWord\bin\Debug\8.LongestWord.exe
+M:\softuni\8\ex\CSharpAdvancedHW\8.LongestWord\bin\Debug\8.LongestWord.pdb
+M:\softuni\8\ex\CSharpAdvancedHW\8.LongestWord\obj\Debug\8.LongestWord.exe
+M:\softuni\8\ex\CSharpAdvancedHW\8.LongestWord\obj\Debug\8.LongestWord.pdb
+M:\softuni\8\hw\CSharpAdvancedHW\8.LongestWord\obj\Debug\8.LongestWord.exe
+M:\softuni\8\hw\CSharpAdvancedHW\8.LongestWord\obj\Debug\8.LongestWord.pdb

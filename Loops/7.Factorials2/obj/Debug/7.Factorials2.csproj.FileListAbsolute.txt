@@ -1,0 +1,4 @@
+M:\softuni\7\Loops\7.Factorials2\bin\Debug\7.Factorials2.exe
+M:\softuni\7\Loops\7.Factorials2\bin\Debug\7.Factorials2.pdb
+M:\softuni\7\Loops\7.Factorials2\obj\Debug\7.Factorials2.exe
+M:\softuni\7\Loops\7.Factorials2\obj\Debug\7.Factorials2.pdb

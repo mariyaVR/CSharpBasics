@@ -1,0 +1,4 @@
+M:\softuni\4\homework.console.input.output\ConsoleInputOutput\4.NumberComparer\bin\Debug\4.NumberComparer.exe
+M:\softuni\4\homework.console.input.output\ConsoleInputOutput\4.NumberComparer\bin\Debug\4.NumberComparer.pdb
+M:\softuni\4\homework.console.input.output\ConsoleInputOutput\4.NumberComparer\obj\Debug\4.NumberComparer.exe
+M:\softuni\4\homework.console.input.output\ConsoleInputOutput\4.NumberComparer\obj\Debug\4.NumberComparer.pdb

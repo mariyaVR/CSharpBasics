@@ -1,0 +1,5 @@
+M:\softuni\3\hw\PrimitiveDataTypesAndVariablesHomework\EmployeeData\bin\Debug\EmployeeData.exe
+M:\softuni\3\hw\PrimitiveDataTypesAndVariablesHomework\EmployeeData\bin\Debug\EmployeeData.pdb
+M:\softuni\3\hw\PrimitiveDataTypesAndVariablesHomework\EmployeeData\obj\Debug\EmployeeData.exe
+M:\softuni\3\hw\PrimitiveDataTypesAndVariablesHomework\EmployeeData\obj\Debug\EmployeeData.pdb
+M:\softuni\3\hw\PrimitiveDataTypesAndVariablesHomework\EmployeeData\obj\Debug\EmployeeData.csprojResolveAssemblyReference.cache

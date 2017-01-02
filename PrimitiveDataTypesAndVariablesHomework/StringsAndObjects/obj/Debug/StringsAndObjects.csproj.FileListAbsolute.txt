@@ -1,0 +1,4 @@
+M:\softuni\3\hw\PrimitiveDataTypesAndVariablesHomework\StringsAndObjects\bin\Debug\StringsAndObjects.exe
+M:\softuni\3\hw\PrimitiveDataTypesAndVariablesHomework\StringsAndObjects\bin\Debug\StringsAndObjects.pdb
+M:\softuni\3\hw\PrimitiveDataTypesAndVariablesHomework\StringsAndObjects\obj\Debug\StringsAndObjects.exe
+M:\softuni\3\hw\PrimitiveDataTypesAndVariablesHomework\StringsAndObjects\obj\Debug\StringsAndObjects.pdb

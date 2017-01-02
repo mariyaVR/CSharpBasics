@@ -1,0 +1,5 @@
+M:\softuni\7\Loops\5.Calculation\bin\Debug\5.Calculation.exe
+M:\softuni\7\Loops\5.Calculation\bin\Debug\5.Calculation.pdb
+M:\softuni\7\Loops\5.Calculation\obj\Debug\5.Calculation.exe
+M:\softuni\7\Loops\5.Calculation\obj\Debug\5.Calculation.pdb
+M:\softuni\7\Loops\5.Calculation\obj\Debug\5.Calculation.csprojResolveAssemblyReference.cache

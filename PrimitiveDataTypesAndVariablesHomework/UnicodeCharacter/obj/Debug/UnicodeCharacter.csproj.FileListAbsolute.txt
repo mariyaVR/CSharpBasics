@@ -1,0 +1,4 @@
+M:\softuni\3\hw\PrimitiveDataTypesAndVariablesHomework\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe
+M:\softuni\3\hw\PrimitiveDataTypesAndVariablesHomework\UnicodeCharacter\bin\Debug\UnicodeCharacter.pdb
+M:\softuni\3\hw\PrimitiveDataTypesAndVariablesHomework\UnicodeCharacter\obj\Debug\UnicodeCharacter.exe
+M:\softuni\3\hw\PrimitiveDataTypesAndVariablesHomework\UnicodeCharacter\obj\Debug\UnicodeCharacter.pdb

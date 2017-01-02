@@ -1,0 +1,4 @@
+M:\softuni\7\Loops\15.HexToDec\bin\Debug\15.HexToDec.exe
+M:\softuni\7\Loops\15.HexToDec\bin\Debug\15.HexToDec.pdb
+M:\softuni\7\Loops\15.HexToDec\obj\Debug\15.HexToDec.exe
+M:\softuni\7\Loops\15.HexToDec\obj\Debug\15.HexToDec.pdb

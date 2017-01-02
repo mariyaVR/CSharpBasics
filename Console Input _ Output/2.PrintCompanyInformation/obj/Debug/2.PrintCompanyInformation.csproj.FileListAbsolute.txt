@@ -1,0 +1,4 @@
+M:\softuni\4\homework.console.input.output\ConsoleInputOutput\2.PrintCompanyInformation\bin\Debug\2.PrintCompanyInformation.exe
+M:\softuni\4\homework.console.input.output\ConsoleInputOutput\2.PrintCompanyInformation\bin\Debug\2.PrintCompanyInformation.pdb
+M:\softuni\4\homework.console.input.output\ConsoleInputOutput\2.PrintCompanyInformation\obj\Debug\2.PrintCompanyInformation.exe
+M:\softuni\4\homework.console.input.output\ConsoleInputOutput\2.PrintCompanyInformation\obj\Debug\2.PrintCompanyInformation.pdb

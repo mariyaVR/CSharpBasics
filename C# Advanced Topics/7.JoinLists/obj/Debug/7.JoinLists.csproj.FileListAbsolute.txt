@@ -1,0 +1,6 @@
+M:\softuni\8\ex\CSharpAdvancedHW\7.JoinLists\bin\Debug\7.JoinLists.exe
+M:\softuni\8\ex\CSharpAdvancedHW\7.JoinLists\bin\Debug\7.JoinLists.pdb
+M:\softuni\8\ex\CSharpAdvancedHW\7.JoinLists\obj\Debug\7.JoinLists.exe
+M:\softuni\8\ex\CSharpAdvancedHW\7.JoinLists\obj\Debug\7.JoinLists.pdb
+M:\softuni\8\hw\CSharpAdvancedHW\7.JoinLists\obj\Debug\7.JoinLists.exe
+M:\softuni\8\hw\CSharpAdvancedHW\7.JoinLists\obj\Debug\7.JoinLists.pdb

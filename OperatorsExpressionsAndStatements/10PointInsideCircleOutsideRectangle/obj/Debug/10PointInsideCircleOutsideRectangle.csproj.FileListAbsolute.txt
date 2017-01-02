@@ -1,0 +1,5 @@
+M:\softuni\5\hw\OperatorsExpressionsAndStatements\10PointInsideCircleOutsideRectangle\bin\Debug\10PointInsideCircleOutsideRectangle.exe.config
+M:\softuni\5\hw\OperatorsExpressionsAndStatements\10PointInsideCircleOutsideRectangle\bin\Debug\10PointInsideCircleOutsideRectangle.exe
+M:\softuni\5\hw\OperatorsExpressionsAndStatements\10PointInsideCircleOutsideRectangle\bin\Debug\10PointInsideCircleOutsideRectangle.pdb
+M:\softuni\5\hw\OperatorsExpressionsAndStatements\10PointInsideCircleOutsideRectangle\obj\Debug\10PointInsideCircleOutsideRectangle.exe
+M:\softuni\5\hw\OperatorsExpressionsAndStatements\10PointInsideCircleOutsideRectangle\obj\Debug\10PointInsideCircleOutsideRectangle.pdb

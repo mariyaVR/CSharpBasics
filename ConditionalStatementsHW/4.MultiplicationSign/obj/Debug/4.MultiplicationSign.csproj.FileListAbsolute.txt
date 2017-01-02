@@ -1,0 +1,5 @@
+M:\softuni\6\hw\ConditionalStatementsHW\4.MultiplicationSign\obj\Debug\4.MultiplicationSign.csprojResolveAssemblyReference.cache
+M:\softuni\6\hw\ConditionalStatementsHW\4.MultiplicationSign\bin\Debug\4.MultiplicationSign.exe
+M:\softuni\6\hw\ConditionalStatementsHW\4.MultiplicationSign\bin\Debug\4.MultiplicationSign.pdb
+M:\softuni\6\hw\ConditionalStatementsHW\4.MultiplicationSign\obj\Debug\4.MultiplicationSign.exe
+M:\softuni\6\hw\ConditionalStatementsHW\4.MultiplicationSign\obj\Debug\4.MultiplicationSign.pdb

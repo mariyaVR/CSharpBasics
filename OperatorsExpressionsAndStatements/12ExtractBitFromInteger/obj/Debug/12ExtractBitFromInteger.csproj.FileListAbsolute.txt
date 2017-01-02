@@ -1,0 +1,4 @@
+M:\softuni\5\hw\OperatorsExpressionsAndStatements\12ExtractBitFromInteger\bin\Debug\12ExtractBitFromInteger.exe
+M:\softuni\5\hw\OperatorsExpressionsAndStatements\12ExtractBitFromInteger\bin\Debug\12ExtractBitFromInteger.pdb
+M:\softuni\5\hw\OperatorsExpressionsAndStatements\12ExtractBitFromInteger\obj\Debug\12ExtractBitFromInteger.exe
+M:\softuni\5\hw\OperatorsExpressionsAndStatements\12ExtractBitFromInteger\obj\Debug\12ExtractBitFromInteger.pdb
